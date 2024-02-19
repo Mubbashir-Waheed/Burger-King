@@ -1,0 +1,159 @@
+.body{
+    background-color: #F5EBDC;
+} 
+.wrap{
+    flex-wrap: wrap;
+}
+
+/* .header{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+} */
+#icon{
+    padding-top: 35px;
+    padding-right: 10px;
+    color: azure;
+    font-size: 25px;
+   
+    
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.button{
+    /* display: flex;
+    justify-content: space-between;
+    flex-direction: row; */
+    margin-left: 160px;
+    margin-top: 30px;
+}
+.button1{
+    /* display: flex;
+    justify-content: space-between;
+    flex-direction: row; */
+    /* margin-left: 60px; */
+    margin-top: 30px;
+}
+.img{
+    width: 50px;
+    height: 60px;
+    background-color: transparent;
+    margin-top: 13px;
+}
+#franchise1{
+    /* display: flex; */
+    /* align-items: center; */
+    padding: 10px 20px;
+    border: 1px solid white;
+    outline: 0;
+    border-radius: 25px;
+    cursor: grab;
+    font-weight: 500;
+    background-color: transparent;
+    color: white;
+}
+#Order{
+    /* display: flex;
+    align-items: center; */
+    padding: 10px 20px;
+    border: 0;
+    outline: 0;
+    border-radius: 25px;
+    cursor: grab;
+    font-weight: 500;
+    color: white;
+    background-color: brown;
+}
+
+/* navbar ended */
+.container1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 20px;
+    /* padding: 0px 240px;
+    border-radius: 15px; */
+
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 300px;
+    border-radius: 15px;
+    
+}
+.heading{
+    font-size: 5rem;
+    font-weight: bold;
+}
+.heading1{
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+}
+.span1{
+    font-weight: lighter;
+    color: brown;
+    font-size: 19px;
+}
+.css-image{
+    width: 350px;
+    height:600px;
+}
+.container3{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 160px;
+    padding: 10px 150px;
+}
+#franchise2{
+   
+    padding: 10px 20px;
+    border: 1px solid white;
+    outline: 0;
+    border-radius: 25px;
+    cursor: grab;
+    font-weight: 500;
+    background-color: transparent;
+    color: white;
+}
+#Order3{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border: 0;
+    outline: 0;
+    border-radius: 25px;
+    cursor: grab;
+    font-weight: 500;
+    color: white;
+    background-color: brown;
+}
+.card-button{
+    font-size: 20px;
+    font-weight: bold;
+    color: #502314;
+}
+.cardpara{
+    font-size: 15px;
+    color: #502314;
+}
+.card-button1{
+    font-size: 60px;
+    font-weight: bold;
+    color: #502314;
+}
+.para3{
+    color: #F5EBDC;
+   text-align: center;
+    font-size: 15px;
+}
+.div3{
+    background-color: #502314;
+    height: 50px;
+}
